@@ -1,0 +1,86 @@
+
+* [[https://www.huridocs.org/?set_language%3Den][HURIDOCS | Human Rights Information and Documentation Systems, International]]
+
+#+BEGIN_QUOTE
+HURIDOCS is the secretariat of a peer network of human rights organisations and persons who share a common interest (and often passion) in information management tools and techniques.
+#+END_QUOTE
+
+* [[http://frontlinedefenders.org/][Front Line Defenders]]
+
+#+BEGIN_QUOTE
+Front Line Defenders is the International Foundation for the Protection of Human Rights Defenders. We work to provide fast and effective action to help protect human rights defenders at risk so they can continue their work as key agents of social change.
+#+END_QUOTE
+  
+* [[http://www.odihpn.org/][Humanitarian Practice Network - Humanitarian Practice Network]]
+
+#+BEGIN_QUOTE
+The Humanitarian Practice Network (HPN) was established in 1994 to provide an independent forum for policy-makers, practitioners and others working in or on the humanitarian sector to share and disseminate information, analysis and experience, and to learn from it. The only network of its kind, HPN plays a key role in examining policy developments and distilling practice. It is fast in capturing major new initiatives and good practice from a wide range of players, and documenting and disseminating this information to field staff and policy-makers. HPN's aim is to improve the performance of humanitarian action by contributing to individual and institutional learning.
+#+END_QUOTE
+
+* [[https://hrdag.org/][Human Rights Data Analysis Group]]
+
+#+BEGIN_QUOTE
+The Human Rights Data Analysis Group is a non-profit, non-partisan organization that applies rigorous science to the analysis of human rights violations around the world. 
+#+END_QUOTE
+
+* [[http://www.ushrnetwork.org/sites/ushrnetwork.org/files/ushrn_strategic_statement_dec_2013.pdf][The US Human Rights Network]]
+
+#+BEGIN__QUOTE
+The US Human Rights Network is a national network of organizations and individuals working to strengthen a human rights movement and culture with in the United States l ed by the people most directly impacted by human rights violations . We work to secure dignity and justice for all.
+#+END_QUOTE
+
+* [[https://freedomhouse.org/][Freedom House]]
+
+#+BEGIN_QUOTE
+Freedom House is an independent watchdog organization dedicated to the expansion of freedom around the world.
+
+Today, as more than two billion people live under oppressive rule, Freedom House speaks out against the main threats to democracy and empowers citizens to exercise their fundamental rights.  We analyze the challenges to freedom; advocate for greater political and civil liberties; and support frontline activists to defend human rights and promote democratic change.  Founded in 1941, Freedom House was the first American organization to champion the advancement of freedom globally.
+#+END_QUOTE
+  
+* [[http://www.humanitarianresponse.info/home][HumanitarianResponse]]
+
+#+BEGIN_QUOTE
+The HumanitarianResponse.info platform is provided to the humanitairan community as a means to aid in coordination of operational information and related activities. The technical aspects have been developed and continued to be managed by OCHA as per their responsibilities outlined in the Inter-Agency Standing Committee’s (IASC) Operational Guidance on Responsibilities Of Cluster/Sector Leads & OCHA In Information Management.
+#+END_QUOTE
+
+* [[http://reliefweb.int/][ReliefWeb]]
+
+#+BEGIN_QUOTE
+We provide reliable disaster and crisis updates and analysis to humanitarians, so they can make informed decisions and plan effective assistance.
+
+Our editorial insight, combined with access to the latest technology, allows us to provide innovative, reliable and informative products and services on a continuous, global basis.
+
+#+END_QUOTE
+
+* [[http://www.icnl.org/][The International Center for Not-for-Profit Law (ICNL)]]
+
+#+BEGIN_QUOTE
+ICNL is the leading source for information on the legal environment for civil society, philanthropy, and public participation. Since 1992, ICNL has served as a resource to civil society leaders, government officials, and the donor community in over 100 countries.
+#+END_QUOTE
+
+* [[https://www.privacyinternational.org/][Privacy International | Privacy International defends the right to privacy across the world.]]
+
+#+BEGIN_QUOTE
+ You are here Who we are Privacy International is committed to fighting for the right to privacy across the world.   We investigate the secret world of government surveillance and expose the companies enabling it. We litigate to ensure that surveillance is consistent with the rule of law. We advocate for strong national, regional, and international laws that protect privacy. We conduct research to catalyse policy change. We raise awareness about technologies and laws that place privacy at risk, to ensure that the public is informed and engaged.
+#+END_QUOTE
+* [[https://citizenlab.org/][The Citizen Lab - University of Toronto]]
+
+#+BEGIN_QUOTE
+The Citizen Lab is an interdisciplinary laboratory based at the Munk School of Global Affairs, University of Toronto, Canada focusing on advanced research and development at the intersection of Information and Communication Technologies (ICTs), human rights, and global security.
+#+END_QUOTE
+
+
+* [[https://opennet.net/][OpenNet Initiative]] [No Longer Updated]
+
+#+BEGIN_QUOTE
+Internet censorship and surveillance are growing global phenomena. ONI’s mission is to identify and document Internet filtering and surveillance, and to promote and inform wider public dialogues about such practices. 
+#+END_QUOTE
+
+
+
+* [[https://www.theengineroom.org/][the engine room]]
+
+
+#+BEGIN_QUOTE
+We investigate and support the effective use of data and technology in advocacy. This involves a combination of applied research, generating evidence and providing direct strategic and material support to activists and organizations using data and technology in their work. 
+#+END_QUOTE

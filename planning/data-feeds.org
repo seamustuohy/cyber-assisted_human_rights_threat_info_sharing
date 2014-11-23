@@ -1,0 +1,110 @@
+
+* Broad Threat Information
+
+- https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_region.md
+
+- https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_focus_area.md
+  - [[https://github.com/OpenInternet/SAFETAG/blob/master/content/references/footnotes.md][You will need the footnotes]]
+
+* Censorship and Surveillance Data
+
+** ONI
+https://opennet.net/research/data
+** Akami - State of the internet
+connectivity and adoption
+
+https://blogs.akamai.com/2013/04/clarifying-state-of-the-internet-report-metrics.html
+http://www.akamai.com/dl/akamai/akamai-soti-q114.pdf?WT.mc_id=soti_Q114
+http://www.akamai.com/stateoftheinternet/
+
+** Net Index
+Real-time global broadband and mobile data
+largest publicly available dataset of broadband speed and quality test results ever compiled 1.4GB
+http://www.netindex.com/
+
+** Alkasir
+https://alkasir.com/map
+
+** Freedom on the net
+http://freedomhouse.org/report/freedom-net/freedom-net-2013
+
+** Herdict
+Measure blocked sites on the internet
+https://www.herdict.org/explore/indepth
+
+** Glasnost
+
+Glasnost attempts to detect whether your Internet access provider is performing application-specific traffic shaping.
+http://www.measurementlab.net/tools/glasnost
+
+** Shaperprobe
+
+ShaperProbe detects whether your ISP performs traffic shaping.
+http://www.measurementlab.net/tools/shaperprobe
+
+** Neubot
+Neubot (the network neutrality bot) is a free-software Internet bot, developed and maintained by the Nexa Center for Internet and Society, that gathers network performance data useful to investigate network neutrality.
+http://www.measurementlab.net/tools/neubot
+
+** OONI Probe
+- https://ooni.torproject.org/
+
+** Cross-Bear
+Ooni like tool for detecting MITM attacks that has no public data I can find.
+https://pki.net.in.tum.de/node/13
+
+** Transparency Reports
+- http://jameslosey.com/post/98162645081/who-publishes-transparency-reports-here-is-an
+
+- Alexa.com, “Top Sites by country"
+http://www.alexa.com/topsites/countries/
+
+** Media sustainabiltity index
+http://www.irex.org/regions
+
+** Open Society Foundation - Mapping digital media
+http://www.opensocietyfoundations.org/projects/mapping-digital-media
+
+
+** [[http://www.cryptolaw.org/][Crypto Law Survey]]
+
+#+BEGIN_QUOTE
+This is a survey of existing and proposed laws and regulations on cryptography - systems used for protecting information against unauthorized access. Governments have long restricted export of cryptography for fear that their intelligence activities are hampered by the crypto use of foreign states and scoundrels. Since the rise of crypto use over the past decades, governments increasingly worry about criminals using cryptography to thwart law enforcement. Thus, many countries have passed laws or are considering laws to maintain law-enforcement and national-security capabilities through regulation of cryptography. 
+#+END_QUOTE
+
+** [[https://redlatam.org/es][LatAm]]
+
+#+BEGIN_QUOTE
+Bienvenidos a RedLatAm  Este sitio web contiene información relativa a regulación, políticas públicas y organizaciones locales que trabajan en temas relativas a derechos digitales en Latinoamérica. La información está organizada por países.
+#+END_QUOTE
+
+
+** ITU's [[http://www.itu.int/en/ITU-D/Cybersecurity/Pages/Country_Profiles.aspx][Country Profiles]]
+
+#+BEGIN_QUOTE
+As part of ITU’s overall support to its 193 Member States within the framework of the Global Cybersecurity Agenda, the cyberwellness profiles are factual representations of each nation state’s level of cybersecurity development. It aims to provide a clear perspective on the current cybersecurity landscape based on the five pillars of the Global Cybersecurity Agenda namely Legal Measures, Technical Measures, Organisation Measures, Capacity Building and Cooperation. The aspect of Child Online Protection, a key ITU initiative is also covered.
+#+END_QUOTE
+
+* Human Rights Data
+
+- http://www.amnestyusa.org/research/reports/state-of-the-world-2013
+
+** [[https://aidworkersecurity.org/][The Aid Worker Security Database]]
+
+#+BEGIN_QUOTE
+The Aid Worker Security Database (AWSD) records major incidents of violence against aid workers, with incident reports from 1997 through the present. Initiated in 2005, to date the AWSD remains the sole comprehensive global source of this data, providing the evidence base for analysis of the changing security environment for civilian aid operations. 
+#+END_QUOTE
+
+
+** [[http://www.icnl.org/research/monitor/][NGO Law Monitor - Research Center - ICNL]]
+
+#+BEGIN_QUOTE
+ICNL's NGO Law Monitor provides up-to-date information on legal issues affecting not-for-profit, non-governmental organizations (NGOs) around the world. At this time, ICNL presents reports on 48 countries and 8 multilateral organizations. Each country report provides an overview of key issues relating to the freedom of association and NGO legal framework, with a focus on legal barriers affecting civil society. Each multilateral organization report provides an overview of the organization, with a focus on NGO legal issues.
+#+END_QUOTE
+
+
+
+* Misc Open Data Sets
+Sets of data that can contribute to gathering up-to date and robust information without having to have the community input it all ourselves.
+
+http://lod-cloud.net/

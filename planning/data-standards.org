@@ -1,0 +1,163 @@
+
+* Digital Threat Information Standards
+Information sharing standards around digital threats, attacks, vulnerabilities, and assets have been covered extensively. While none of these will smoothly fit into existing human-rights violation tracking systems,, it would be a mistake to not leverage these standards in the extension of cyber-assisted human rights information sharing systems.  
+
+** Cyber-Threat Information Sharing Standards
+
+*** [[http://taxii.mitre.org/][TAXII - Trusted Automated Exchange of Indicator Information]]
+
+#+BEGIN_QUOTE
+TAXII™ defines a set of services and message exchanges that, when implemented, enable sharing of actionable cyber threat information across organization and product/service boundaries. TAXII, through its member specifications, defines concepts, protocols, and message exchanges to exchange cyber threat information for the detection, prevention, and mitigation of cyber threats. TAXII is not a specific information sharing initiative or application and does not attempt to define trust agreements, governance, or other non-technical aspects of cyber threat information sharing. Instead, TAXII empowers organizations to achieve improved situational awareness about emerging threats, enabling organizations to share the information they choose with the partners they choose.
+#+END_QUOTE
+
+*** [[http://stix.mitre.org/][STIX - Structured Threat Information Expression]]
+
+#+BEGIN_QUOTE
+STIX™ is a collaborative community-driven effort to define and develop a standardized language to represent structured cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, automatable, and as human-readable as possible. All interested parties are welcome to participate in evolving STIX as part of its open, collaborative community.
+#+END_QUOTE
+
+** Cyber-Attack Information Sharing Standards
+*** [[http://capec.mitre.org/][CAPEC - Common Attack Pattern Enumeration and Classification (CAPEC) ﻿]]
+
+#+BEGIN_QUOTE
+CAPEC™ is a comprehensive dictionary and classification taxonomy of known attacks that can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.
+#+END_QUOTE
+
+*** [[http://maec.mitre.org/][MAEC - Malware Attribute Enumeration and Characterization]]
+
+#+BEGIN_QUOTE
+Malware Attribute Enumeration and Characterization (MAEC™) is a structured language for encoding and communicating high fidelity information about malware based upon attributes such as behaviors, artifacts, and attack patterns.
+#+END_QUOTE
+
+*** [[https://targetedthreats.net/media/2-Extended%20Analysis-Full.pdf#page=22][TTI - Targeted Threat Index]] 
+A framework for evaluating phising attack sophistication.
+
+#+BEGIN_QUOTE
+We developed the Targeted Threat Index (TTI), which is a metric that characterizes and quantifies the sophistication of targeted [phishing] attacks, to provide a consistent ranking of how advanced any given targeted malware attack is.  The TTI score is calculated by taking a base value determined by the sophistication of the targeting method, which is then multiplied by a value for the technical sophistication of the malware. The base score can be used independently to compare emails, and the combined score gives an indication of the level of effort an attacker has put into individual threats. 
+#+END_QUOTE
+
+*** [[http://datatracker.ietf.org/doc/rfc5901/][Extensions to the IODEF-Document Class for Reporting Phishing]]
+
+#+BEGIN_QUOTE
+ This document extends the Incident Object Description Exchange Format (IODEF) defined in RFC 5070 to support the reporting of phishing events, which is a particular type of fraud. These extensions are flexible enough to support information gleaned from activities throughout the entire electronic fraud cycle -- from receipt of the phishing lure to the disablement of the collection site. Both simple reporting and complete forensic reporting are possible, as is consolidating multiple incidents.
+#+END_QUOTE
+
+*** [[http://cybox.mitre.org/][CybOX - Cyber Observable Expression ﻿]]
+
+#+BEGIN_QUOTE
+CybOX is a standardized schema for the specification, capture, characterization, and communication of events or stateful properties that are observable in the operational domain. A wide variety of high-level cyber security use cases rely on such information including: event management/logging, malware characterization, intrusion detection, incident response/management, attack pattern characterization, etc.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+  CybOX was developed to promote consistent capture of cyber observable content and to standardize the transfer of this information across the entire spectrum of security activities, tools and services. It was developed as a foundational language for describing many base level system and network elements that are used in higher level schemas, languages, and conventions, such as the Structured Threat Information eXpression (STIX™), the Common Attack Pattern Enumeration and Classification (CAPEC™), and the Malware Attribute Enumeration and Characterization (MAEC™). It is an international, information security, community effort developed by a broad spectrum of industry, academia, and government organizations from around the world.
+#+END_QUOTE
+
+** Cyber-Vulnerability Information Sharing Standards
+*** [[http://www.icasi.org/cvrf-1.1][Common Vulnerability Reporting Framework (CVRF)]]
+
+#+BEGIN_QUOTE
+The Common Vulnerability Reporting Framework (CVRF) Version 1.1 was released in May 2012. CVRF is an XML-based language that enables different stakeholders across different organizations to share critical security-related information in a single format, speeding up information exchange and digestion.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+CVRF was created to fill a major gap in vulnerability standardization: the lack of a standard framework for the creation of vulnerability report documentation. ... this lack of standardization was evident in every vulnerability report, best practice document, or security bulletin released by any vendor or coordinator.
+#+END_QUOTE
+
+**** [[https://cve.mitre.org/cve/cvrf.html][CVE - CVE Usage of CVRF ﻿]]
+
+#+BEGIN_QUOTE
+CVE content can be downloaded in CVRF format on the [[https://cve.mitre.org/data/downloads/index.html][Download CVE page.]] A single download of all CVE entries in CVRF format is available, as are downloads for individual calendar years in CVRF format such as 2013, etc.
+#+END_QUOTE
+
+*** [[https://cve.mitre.org/][Common Vulnerabilities and Exposures (CVE)]]
+#+BEGIN_QUOTE
+CVE is a list of information security vulnerabilities and exposures that aims to provide common names for publicly known problems. The goal of CVE is to make it easier to share data across separate vulnerability capabilities (tools, repositories, and services) with this "common enumeration."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+An information security "vulnerability" is a mistake in software that can be directly used by a hacker to gain access to a system or network.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+An information security "exposure" is a system configuration issue or a mistake in software that allows access to information or capabilities that can be used by a hacker as a stepping-stone into a system or network.
+#+END_QUOTE
+
+**** [[https://cve.mitre.org/cve/identifiers/index.html][Information about CVE Identifiers]]
+
+
+
+**** [[http://www.itu.int/ITU-T/recommendations/rec.aspx?rec%3D11061][ITU-T Recommendation for CVE use]]
+
+
+#+BEGIN_QUOTE
+This Recommendation on the use of the common vulnerabilities and exposures (CVE) provides a structured means to exchange information security vulnerabilities and exposures that provides common names for publicly known problems in the commercial or open source software used in communications networks, end user devices, or any of the other types of information and communications technology (ICT) capable of running software. The goal of the Recommendation is to define use of CVE to make it easier to share data across separate vulnerability capabilities (tools, repositories, and services) with this common naming. This Recommendation defines the use of CVE to provide a mechanism for vulnerability databases and other capabilities to be used together, and to facilitate the comparison of security tools and services. CVE does not contain information such as risk, impact, fix information, or detailed technical information. CVE only contains the standard identifier number with status indicator, a brief description, and references to related vulnerability reports and advisories. The repository of CVE identifiers is available at [cve.mitre.org/cve/cve.html].The intention of CVE, the use of which is defined in this Recommendation, is to be comprehensive with respect to all publicly known vulnerabilities and exposures. While CVE is designed to contain mature information, the primary focus is on identifying vulnerabilities and exposures that are detected by security tools and any new problems that become public, and then addressing any older security problems that require validation.
+#+END_QUOTE
+
+*** [[http://www.first.org/cvss][Common Vulnerability Scoring System (CVSS-SIG)]]
+
+#+BEGIN_QUOTE
+CVSS is a vulnerability scoring system designed to provide an open and standardized method for rating IT vulnerabilities. CVSS helps organizations prioritize and coordinate a joint response to security vulnerabilities by communicating the base, temporal and environmental properties of a vulnerability.
+#+END_QUOTE
+
+**** [[https://nvd.nist.gov/cvss.cfm][National Vulnerability Database Support for CVSS]]
+
+#+BEGIN_QUOTE
+NVD supports the Common Vulnerability Scoring System (CVSS) version 2 standard for all CVE vulnerabilities. NVD provides CVSS 'base scores' which represent the innate characteristics of each vulnerability. We do not currently provide 'temporal scores' (scores that change over time due to events external to the vulnerability). However, NVD does provide a CVSS score calculator to allow you to add temporal data and to even calculate environmental scores (scores customized to reflect the impact of the vulnerability on your organization). This calculator contains support for U.S. government agencies to customize vulnerability impact scores based on FIPS 199 System ratings.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+CWE - Common Weakness Enumeration  The Common Weakness Enumeration Specification (CWE) provides a common language of discourse for discussing, finding and dealing with the causes of software security vulnerabilities as they are found in code, design, or system architecture. Each individual CWE represents a single vulnerability type. CWE is currently maintained by the MITRE Corporation with support from the National Cyber Security Division (DHS). A detailed CWE list is currently available at the MITRE website; this list provides a detailed definition for each individual CWE.
+#+END_QUOTE
+
+*** [[http://oval.mitre.org/][OVAL - Open Vulnerability and Assessment Language]]
+
+#+BEGIN_QUOTE
+Open Vulnerability and Assessment Language (OVAL®) is an international, information security, community standard to promote open and publicly available security content, and to standardize the transfer of this information across the entire spectrum of security tools and services. OVAL includes a language used to encode system details, and an assortment of content repositories held throughout the community. The language standardizes the three main steps of the assessment process: representing configuration information of systems for testing; analyzing the system for the presence of the specified machine state (vulnerability, configuration, patch state, etc.); and reporting the results of this assessment. The repositories are collections of publicly available and open content that utilize the language. See About OVAL for additional information.
+#+END_QUOTE
+
+*** [[https://nvd.nist.gov/cwe.cfm][Common Weakness Enumeration (CWE)]]
+
+** Asset Information Sharing Standards
+*** [[http://scap.nist.gov/index.html][Security Content Automation Protocol (SCAP)]]
+
+#+BEGIN_QUOTE
+The Security Content Automation Protocol (SCAP) is a suite of specifications that standardize the format and nomenclature by which software flaw and security configuration information is communicated, both to machines and humans. SCAP is a multi-purpose framework of specifications that support automated configuration, vulnerability and patch checking, technical control compliance activities, and security measurement. Goals for the development of SCAP include standardizing system security management, promoting interoperability of security products, and fostering the use of standard expressions of security content 
+#+END_QUOTE
+
+**** [[http://csrc.nist.gov/publications/nistpubs/800-126-rev2/SP800-126r2.pdf][NIST SP 800-126 Revision 2, The Technical Specification for the Security Content Automation Protocol (SCAP)]]
+*** [[http://scap.nist.gov/specifications/cpe/][Common Platform Enumeration (CPE)]]
+#+BEGIN_QUOTE
+Common Platform Enumeration (CPE) is a standardized method of describing and identifying classes of applications, operating systems, and hardware devices present among an enterprise's computing assets. CPE does not identify unique instantiations of products on systems, such as the installation of XYZ Visualizer Enterprise Suite 4.2.3 with serial number Q472B987P113. Rather, CPE identifies abstract classes of products, such as XYZ Visualizer Enterprise Suite 4.2.3, XYZ Visualizer Enterprise Suite (all versions), or XYZ Visualizer (all variations).
+#+END_QUOTE
+
+**** [[https://nvd.nist.gov/cpe.cfm][NVD - CPE Dictionary]]
+#+BEGIN_QUOTE
+Official Common Platform Enumeration (CPE) Dictionary  CPE is a structured naming scheme for information technology systems, software, and packages. Based upon the generic syntax for Uniform Resource Identifiers (URI), CPE includes a formal name format, a method for checking names against a system, and a description format for binding text and tests to a name.
+#+END_QUOTE
+
+*** [[https://nvd.nist.gov/cce/index.cfm][Common Configuration Enumeration (CCE)]]
+*** [[http://scap.nist.gov/specifications/arf/][ARF - The Asset Reporting Format - The Security Content Automation Protocol (SCAP) - NIST]]
+
+#+BEGIN_QUOTE
+The Asset Reporting Format (ARF)  The Asset Reporting Format (ARF) is a data model to express the transport format of information about assets, and the relationships between assets and reports. The standardized data model facilitates the reporting, correlating, and fusing of asset information throughout and between organizations. ARF is vendor and technology neutral, flexible, and suited for a wide variety of reporting applications.
+#+END_QUOTE
+* Human Rights Violation information Standards
+
+** [[https://hrdag.org/whodidwhattowhom/contents.html][Who Did What to Whom? - Planning and Implementing a Large Scale Human Rights Data Project.]]
+** [[https://www.huridocs.org/resource/huridocs-events-standard-formats/][HURIDOCS events standard formats : a tool for documenting human rights violations]]
+
+#+BEGIN_QUOTE
+The Events Standard Formats are a methodology for using the “violations” approach in monitoring and documenting all types of human rights: civil and political as well as economic, social and cultural. They are integrated, flexible and adaptable, and cover the various aspects of documenting human rights events.
+#+END_QUOTE
+** [[http://www.icc-cpi.int/NR/rdonlyres/336923D8-A6AD-40EC-AD7B-45BF9DE73D56/0/ElementsOfCrimesEng.pdf][International Criminal Court - Elements of Crimes]]
+
+
+* Conflict Assessment Information Standards
+
+* Information Sharing Standards
+
+** [[http://csrc.nist.gov/publications/drafts/800-150/sp800_150_draft.pdf][NIST 800-15: Guide to Cyber Threat Information Sharing (Draft)]]
+
+* Responsible Information Sharing Standards
+
+

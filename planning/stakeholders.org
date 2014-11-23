@@ -1,6 +1,5 @@
 
 * Stakeholders
-
 This document is being used to identify and group stakeholders. Once identified this will be used to attempt to identify each stakeholders current attitude towards information sharing (positive and negative), their current impact on information sharing (positive and negative), the impact coordinated information sharing can have on them (positive and negative).
 
 The impact of threat information sharing on stakeholders who are local to ongoing human rights violations is greater than the impact for international stakeholders who face only digital attacks. The categories are therefore split between local and international entities.
@@ -31,7 +30,7 @@ Almost any entity under other categories can also exist as a source. So, only th
 **** Non-State Actors
 *** Victims
 *** Intervening Parties
-"A person (individual or group) who intervenes in an event, such as to aid a victim, or to seek to stop an ongoing violation."[[#References][1]]
+"A person (individual or group) who intervenes in an event, such as to aid a victim, or to seek to stop an ongoing violation."[[#references][1]]
 **** Independent Parties
 ***** Digital Security Trainer
 ***** Pro-Bono Legal Counsel
