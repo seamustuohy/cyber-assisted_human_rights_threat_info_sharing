@@ -235,5 +235,5 @@ Servers, money, etc.
 
 
 * References
-[f1]: https://www.huridocs.org/wp-content/uploads/2010/07/HURIDOCS_ESF_English1.pdf*page=25 "Definition: Intervening party - HURIDOCS Events Standard Formats"
-	
+1. [[https://www.huridocs.org/wp-content/uploads/2010/07/HURIDOCS_ESF_English1.pdf*page=25]["Definition: Intervening party - HURIDOCS Events Standard Formats"]]
+	 
