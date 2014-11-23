@@ -31,7 +31,7 @@ Almost any entity under other categories can also exist as a source. So, only th
 **** Non-State Actors
 *** Victims
 *** Intervening Parties
-"A person (individual or group) who intervenes in an event, such as to aid a victim, or to seek to stop an ongoing violation."[1][f1]
+"A person (individual or group) who intervenes in an event, such as to aid a victim, or to seek to stop an ongoing violation."[1](#f1)
 **** Independent Parties
 ***** Digital Security Trainer
 ***** Pro-Bono Legal Counsel
