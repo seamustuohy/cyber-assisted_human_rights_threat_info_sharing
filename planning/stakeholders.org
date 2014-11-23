@@ -1,0 +1,239 @@
+
+* Stakeholders
+
+This document is being used to identify and group stakeholders. Once identified this will be used to attempt to identify each stakeholders current attitude towards information sharing (positive and negative), their current impact on information sharing (positive and negative), the impact coordinated information sharing can have on them (positive and negative).
+
+The impact of threat information sharing on stakeholders who are local to ongoing human rights violations is greater than the impact for international stakeholders who face only digital attacks. The categories are therefore split between local and international entities.
+
+** Local Entities
+*** Sources
+Almost any entity under other categories can also exist as a source. So, only those who do not fit in any other category except here will be found under sources.
+**** Independent Parties
+***** Independent Journalist
+**** Research Institutions
+***** Conflict Researcher
+***** Political Researcher
+***** Cyber-Security Researchers
+***** Malware Researchers
+**** Media Organization
+***** Reporter
+***** Editor
+***** IT Staff
+***** Technical Security Manager
+***** Developer
+***** Technology Reporter
+***** Operational Security Manager
+***** Legal Staff
+***** Data Journalist
+***** Marketing
+*** Perpetrators
+**** State Actors
+**** Non-State Actors
+*** Victims
+*** Intervening Parties
+"A person (individual or group) who intervenes in an event, such as to aid a victim, or to seek to stop an ongoing violation."[1][f1]
+**** Independent Parties
+***** Digital Security Trainer
+***** Pro-Bono Legal Counsel
+***** Human-Rights Defender
+***** Independent Communications Access Activist
+***** Independent Digital Privacy Activist
+**** Digital Privacy Implementer
+***** Trainer
+***** Legal Staff
+***** Operations
+***** M&E Staff
+***** Development Staff
+***** IT Staff
+***** Technical Security Manager
+NOTE: does not exist in 99.99999999% of cases and we know that. But, it is a possibility.
+***** Operational Security Manager
+***** Technical Implementer
+***** Policy Advocate
+**** Digital Privacy Policy Advocates
+***** Legal Staff
+***** Operations
+***** M&E Staff
+***** Development Staff
+***** IT Staff
+***** Technical Security Manager
+NOTE: does not exist in 99.99999999% of cases and we know that. But, it is a possibility.
+***** Operational Security Manager
+***** Technical Implementer
+***** Policy Advocate
+**** Communications Access Policy Advocates
+
+***** Policy Advocate
+***** Legal Staff
+***** Operations
+***** M&E Staff
+***** Development Staff
+***** IT Staff
+***** Technical Security Manager
+NOTE: does not exist in 99.99999999% of cases and we know that. But, it is a possibility.
+***** Operational Security Manager
+***** Technical Implementer
+***** Campaign Staff
+
+**** Communications Access Implementer
+
+***** Trainer
+***** Legal Staff
+***** Operations
+***** M&E Staff
+***** Development Staff
+***** IT Staff
+***** Technical Security Manager
+NOTE: does not exist in 99.99999999% of cases and we know that. But, it is a possibility.
+***** Operational Security Manager
+***** Technical Implementer
+
+**** CERT
+***** Trainer
+***** Incident Responder
+***** Security Consultant
+
+***** Penetration Tester
+*** Indirect Stakeholder
+**** Independent Parties
+***** Cracked Software Vendor
+***** Software Cracker
+***** White Hat Exploit Developer
+***** Black Hat Exploit Developer
+**** Malware Re-seller
+**** Internet Content Company
+**** Digital Security Technology Software Project
+***** Code Contributor
+***** Tool User
+***** Translator
+***** Distributor
+**** Circumvention Technology Software Project
+***** Code Contributor
+***** Tool User
+***** Translator
+***** Distributor
+** International Entities
+*** Sources
+Almost any entity under other categories can also exist as a source. So, only those who do not fit in any other category except here will be found under sources.
+**** Independent Parties
+***** Independent Journalist
+**** Research Institutions
+***** Conflict Researcher
+***** Political Researcher
+***** Cyber Security Researchers
+***** Cyber-Warfare Researchers
+Sigh...
+***** Malware Researchers
+**** Media Organization
+***** Reporter
+***** Editor
+***** IT Staff
+***** Technical Security Manager
+***** Developer
+***** Technology Reporter
+***** Operational Security Manager
+***** Legal Staff
+***** Data Journalist
+***** Marketing
+
+*** Perpetrators
+**** Independent Parties
+*** Victims
+*** Intervening Parties
+**** Independent Parties
+***** Digital Security Trainer
+***** Pro-Bono Legal Counsel
+***** Human-Rights Defender
+***** Independent Communications Access Activist
+***** Independent Digital Privacy Activist
+***** Independent Penetration Tester
+**** Digital Privacy Implementer
+
+***** Trainer
+***** Legal Staff
+***** Operations
+***** M&E Staff
+***** Development Staff
+***** IT Staff
+***** Technical Security Manager
+NOTE: does not exist in 99.99999999% of cases and we know that. But, it is a possibility.
+***** Operational Security Manager
+***** Technical Implementer
+***** Policy Advocate
+
+**** Digital Privacy Policy Advocates
+
+***** Legal Staff
+***** Operations
+***** M&E Staff
+***** Development Staff
+***** IT Staff
+***** Technical Security Manager
+NOTE: does not exist in 99.99999999% of cases and we know that. But, it is a possibility.
+***** Operational Security Manager
+***** Technical Implementer
+***** Policy Advocate
+
+**** Communications Access Policy Advocates
+
+***** Policy Advocate
+***** Legal Staff
+***** Operations
+***** M&E Staff
+***** Development Staff
+***** IT Staff
+***** Technical Security Manager
+NOTE: does not exist in 99.99999999% of cases and we know that. But, it is a possibility.
+***** Operational Security Manager
+***** Technical Implementer
+***** Campaign Staff
+
+**** Communications Access Implementer
+
+***** Trainer
+***** Legal Staff
+***** Operations
+***** M&E Staff
+***** Development Staff
+***** IT Staff
+***** Technical Security Manager
+NOTE: does not exist in 99.99999999% of cases and we know that. But, it is a possibility.
+***** Operational Security Manager
+***** Technical Implementer
+
+*** Indirect Stakeholders
+**** Independent Parties
+***** Cracked Software Vendor
+***** Software Cracker
+***** Penetration Tester
+***** Black Hat Exploit Developer
+***** White Hat Exploit Developer
+**** Malware Re-seller
+**** Malware Obsfucation Companies
+**** Botnet (DDOS) Retailer
+**** Anti-Virus Company
+**** Software Company
+**** Internet Content Company
+**** Cyber-Threat Intelligence Companies
+**** International Criminal Court
+
+**** Non-Conspiring External Governments
+**** Digital Security Technology Software Project
+***** Paid Developer
+***** Community Developer
+***** Designer
+***** User
+***** Independent Resource Contributor
+Servers, money, etc.
+**** Circumvention Technology Software Project
+***** Paid Developer
+***** Community Developer
+***** Designer
+***** User
+***** Independent Resource Contributor
+Servers, money, etc.
+
+
+* References
+[f1]: https://www.huridocs.org/wp-content/uploads/2010/07/HURIDOCS_ESF_English1.pdf*page=25 "Definition: Intervening party - HURIDOCS Events Standard Formats"
+	
