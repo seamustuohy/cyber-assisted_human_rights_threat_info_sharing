@@ -1,10 +1,169 @@
 
-* Broad Threat Information
+The following are notes and resources that currently exist that may have useful information for defining the problem of human rights threat information sharing. Some may even be useful organizations to partner with for gathering human rights threat information.
+
+* Notes
+** [[http://www.i-intelligence.eu/resources/taxonomy/][Taxonomy of OSINT Sources – i-intelligence]]
+
+#+BEGIN_QUOTE
+A detailed index of sources and data types to support source awareness and intelligence collection.  What constitutes an open source of intelligence? How many of these sources do you consult in the course of your work? And what format do they take? i-intelligence has put together a Taxonomy of OSINT Sources to support source awareness, intelligence collection and general information literacy.
+#+END_QUOTE
+
+
+* Broad Threat/Risk Information
 
 - https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_region.md
 
 - https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_focus_area.md
   - [[https://github.com/OpenInternet/SAFETAG/blob/master/content/references/footnotes.md][You will need the footnotes]]
+** [[http://portal.gdacs.org/data/GDACS-Platform][GDACS Data Plaftorm]]
+
+#+BEGIN_QUOTE
+GDACS is a collaboration platform with the aim of sharing information in an effective and interoperable manner enabling advanced analysis by computer models or expert moderators to derive targeted information for planning emergency response operations. In the first phases of GDACS, a lot of data sharing went on behind the scenes with dedicated interfaces and mechanisms. The focused was on creating working algorithms for multi-hazard impact assessment, often at the cost of standard interfaces and open, interoperable approaches. However, for a sustainable, flexible and scalable system, openness and interoperability is key, and should be at the core of GDACS.
+#+END_QUOTE
+
+** [[https://aidworkersecurity.org/][The Aid Worker Security Database]]
+
+#+BEGIN_QUOTE
+The Aid Worker Security Database (AWSD) records major incidents of violence against aid workers, with incident reports from 1997 through the present. Initiated in 2005, to date the AWSD remains the sole comprehensive global source of this data, providing the evidence base for analysis of the changing security environment for civilian aid operations.
+#+END_QUOTE
+
+* Conflict and Crisis Data
+** [[http://www.correlatesofwar.org/][Correlates of War Project (COW)]]
+
+#+BEGIN_QUOTE
+One of the principal activities of the Correlates of War Project is the extension and maintenance of the core COW data sets that have proved invaluable to the broader scientific community. The data sets listed on this page are all available for download. For information on other unreleased data sets on which the COW project is conducting research, see the "Ongoing Research" page. Some other data sets on these topics are available through the "Related Data" page.
+#+END_QUOTE
+
+** [[http://reliefweb.int/help/api][ReliefWeb API | ReliefWeb]]
+
+#+BEGIN_QUOTE
+ReliefWeb is a leading source of information on global crises and disasters. Our continuous coverage and archive going back to the 1970s makes ReliefWeb an unparalleled resource for both current and historical data on humanitarian response. 
+#+END_QUOTE
+
+*** [[http://www.programmableweb.com/api/reliefweb][ReliefWeb API | ProgrammableWeb]]
+
+
+#+BEGIN_QUOTE
+ ReliefWeb, a specialized digital service of the United Nations Office of Humanitarian Affairs (OCHA), is a source for timely information on global crises and disasters, enabling humanitarians to make informed decisions and plan effective assistance. The ReliefWeb API provides developer-friendly access to content on the ReliefWeb site. ReliefWeb launched in 1996 and has been posting Reports continuously since. Also available are UN reports on major disasters from the 1980s. Data in updated is real-time. 
+#+END_QUOTE
+
+** [[http://crisis.net/][CrisisNET]]
+
+#+BEGIN_QUOTE
+Crisis data, at your fingertips  CrisisNET finds, formats and exposes crisis data in a simple, intuitive structure that’s accessible anywhere. Now developers, journalists and analysts can skip the days of tedious data processing and get to work in minutes with only a few lines of code.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Sources:
+- Ushahidi 
+- Facebook 
+- Twitter 
+- Instagram 
+- Violations 
+- Documentation 
+- Center in Syria 
+- ReliefWeb 
+#+END_QUOTE
+
+** [[http://www.google.org/crisisresponse/resources.html][Google Crisis Response]]
+
+#+BEGIN_QUOTE
+ First responders can use technology to streamline internal operations and get information to the public as quickly, broadly, and effectively as possible. We’ve published some solutions to help responders achieve these goals. 
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Use online technology to quickly reach people in need and to efficiently run your internal operations during a crisis. We recommend you implement these best practices and try out some of the Google tools highlighted below. 
+#+END_QUOTE
+
+** [[http://www.cidcm.umd.edu/mar/mar_data.asp][Minorities At Risk | MAR Data]]
+
+#+BEGIN_QUOTE
+The minority group assessments consist of two parts: a risk assessment and an analytic summary. The risk assessment summarizes whether the group is at risk of rebellion, protest, or repression, based on levels of a number of other variables. The analytic summary gives a brief history of the group and its relations with the state. The group's values on key variables from the dataset are embedded within both components.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+  The discrimination dataset records overall levels of political and economic discrimination for all groups in the Minorities at Risk Project for the period 1950-2003. The variable coding is described in the MAR codebook, also available on this page. (No separate codebook is available.)  The discrimination dataset was used to produce the analysis in Asal and Pate, "The Decline of Ethnic Political Discrimination 1950-2003" in Peace and Conflict 2005, published by the Center for International Development and Conflict Management, University of Maryland, College Park. It is offered here in two versions: the first lists discrimination codes annually by minority group. The second lists codes annually by country. Each version is offered in two formats: SPSS and MS Excel.
+#+END_QUOTE
+
+** [[http://berkleycenter.georgetown.edu/publications/start-global-terrorism-database][START Global Terrorism Database]]
+#+BEGIN_QUOTE
+The Global Terrorism Database (GTD) is currently the most comprehensive unclassified terrorism database in the world, with information on more than 27,000 bombings, 13,000 assassinations, and 2,800 kidnappings. It consists of two distinct databases: GTD1, which covers 1970-1997, and GTD2, which covers 1998-2004. Unlike many other event databases, the GTD includes systematic data on international as well as domestic terrorist incidents that have occurred during this time period. For each GTD incident, information is available on the date and location of the incident, the weapons used and nature of the target, the number of casualties, and -- when identifiable -- the identity of the perpetrator. This data has been used by a number of studies that explore the relationship between religion and terrorism, most often those focusing on Islamist organizations. 
+#+END_QUOTE
+
+** [[http://berkleycenter.georgetown.edu/publications/rand-worldwide-terrorism-incident-database][RAND Worldwide Terrorism Incident Database]]
+
+#+BEGIN_QUOTE
+The RAND Worldwide Terrorism Incident Database (RWTID) defines and categorizes terrorist attacks globally so that researchers can examine trends in terrorism. For the RWTID, terrorism is violence calculated to create an atmosphere of fear and alarm to coerce others into actions they would not otherwise undertake, or refrain from actions they desired to take. Acts of terrorism are generally directed against civilian targets. The motives of all terrorists are political, and terrorist actions are generally carried out in a way that will achieve maximum publicity. Though all terrorist acts are criminal, not all crime is terrorism, and the RWTID consequently does not include basic criminal acts, even if they are perpetrated by a terrorist organization. Similarly, the RWTID only includes attacks against military targets if such an attack makes a broader political statement. The database has been used by scholars and practitioners to examine the intersection between religion and terrorism, particularly in the Muslim world.
+#+END_QUOTE
+
+** [[http://www.aidindanger.org/][AIDINDANGER.ORG]]
+
+#+BEGIN_QUOTE
+The data for Aid in Danger comes from the Security in Numbers Database (SiND), which tracks threats and incidents of violence against aid delivery, including against aid workers and aid agencies, as well as the deliberate obstruction of aid and the provision of healthcare. It is a partnership between humanitarian agencies and Insecurity Insight. The data include both confidential agency-reported data as well as open source information.
+#+END_QUOTE
+
+*[[http://insecurityinsight.org/projectsmapping.html][ Insecurity Insight- Mapping Violence]]
+
+#+BEGIN_QUOTE
+The mapping of violence involves identifying 'hotspots' of violence, the nature of this violence and its effects. Using the Taback-Coupland method, the Small Arms Survey carried out seven in-country studies to map different forms of violence. The case studies highlight the conditions under which violence can be measured in terms of the total number of killed or otherwise affected, and demonstrate how the method can be used to provide insight into the dynamics of violent events. The pilot studies generated indicators that can be used by policy-makers and project managers to plan and monitor violence-reduction programmes, and by researchers to examine specific matters relating to the causes and consequences of violence.
+#+END_QUOTE
+
+** [[http://www.prio.org/data/armed-conflict/][Data on Armed Conflict - PRIO]]
+
+#+BEGIN_QUOTE
+CSCW and Uppsala Conflict Data Program (UCDP) at the Department of Peace and Conflict Research, Uppsala University, have collaborated in the production of a dataset of armed conflicts, both internal and external, in the period 1946 to the present. The Armed Conflict Dataset is primarily intended for academic use in statistical and macro-level research. It complements the annual compendium of ongoing armed conflicts published in the Journal of Peace Research, as well as the UCDP online database. CSCW houses the academic conflict dataset and continues to work closely with UCDP to provide more and better data.
+#+END_QUOTE
+
+** [[http://www.pcr.uu.se/research/ucdp/datasets/ucdp_prio_armed_conflict_dataset/][UCDP/PRIO Armed Conflict Dataset - Uppsala University, Sweden]]
+
+#+BEGIN_QUOTE
+UCDP/PRIO Armed Conflict Dataset v.4-2014, 1946 – 2013  Content: a conflict-year dataset with information on armed conflict where at least one party is the government of a state in the time period 1946-2013. The most recent is version 4-2014.  Latest presentation of data: Themnér, Lotta & Peter Wallensteen (2014) Armed Conflict, 1946-2013. Journal of Peace Research 51(4).   Original citation for the data: Gleditsch, Nils Petter, Peter Wallensteen, Mikael Eriksson, Margareta Sollenberg, and Håvard Strand (2002) Armed Conflict 1946-2001: A New Dataset. Journal of Peace Research 39(5).  Other recent presentations of the data: “Human Security Report 2013” (Human Security Report Project, Simon Fraser University).
+#+END_QUOTE
+
+** [[http://www.paulhensel.org/compendium.html][ISA Compendium: SSIP Data Sets]]
+
+#+BEGIN_QUOTE
+  This web page serves as an Internet appendix to Paul Hensel's "Review of Available Data Sets" chapter in the Scientific Study of International Processes (SSIP) section's volume in the ISA Compendium Project, which has been updated from the chapter in the original ISA-wide Compendium.  This page provides links to download the data sets that have been used most frequently in recent research by SSIP scholars, categorized by the typical usage for each data set. Data sets within each category are organized alphabetically.  The "Source" entry for each data set indicates the best place to obtain it. Where possible, this is the official site where the data set is maintained, which should always have the most up-to-date version. Also note that some data sets that are listed as being available by purchase only can be purchased by an entire institution through a site license; interested users may want to check with their school's library to see whether these resources are already available to them before paying the fee to access the data individually.  The "Typical Uses" entry for each data set indicates the most common uses for the data in recent years. Note that some data sets are very broad, and can be used for multiple purposes. Where relevant, data sets are listed under several different categories, as with data sets that are commonly used for studying both armed conflict and conflict management.  Please email me with any updates or corrections to the information on this page. I have made every effort to make sure that this information is correct and complete at the time of publication, but there will inevitably be changes as data sets are moved to new hosts or new URLs.
+#+END_QUOTE
+
+** [[http://www.paulhensel.org/dataconf.html][Paul Hensel's International Conflict and Cooperation Data Page]]
+
+#+BEGIN_QUOTE
+  See also the resources on my companion page for the ISA Compendium's "Review of Available Data Sets" article, which may have been updated more recently than some of the resources on this page.
+#+END_QUOTE
+
+** [[http://www.icr.ethz.ch/data][ETH - International Conflict Research - Data Projects]]
+
+#+BEGIN_QUOTE
+  The GROWup data portal unites a number of datasets on ethnic groups and intrastate conflict from various sources in a single relational database. We currently offer two portals to access these data:  The GROWup Public Front-End visualizes a subset of the data, e.g. ethnic group's settlement patterns, ethnic power relations, terrain data, etc.  The GROWup Research Front-End allows to download customized datases from our database in research-ready format, i.e., on the basis of country-year or group-year observations. For an overview of the variables provided via the RFE, see the RFE Documentation.
+#+END_QUOTE
+
+** [[http://www.conflict-data.org/][Data on Armed Conflict and Security - conflict-data.org: Startseite]]
+
+#+BEGIN_QUOTE
+Data on Armed Conflict and Security  Welcome to conflict-data.org. The Data on Armed Conflict and Security Project.
+#+END_QUOTE
+
+** [[http://dss.princeton.edu/cgi-bin/dataresources/newdataresources.cgi?term%3D47][Data Resources: Conflicts, Wars, Terrorism]]
+#+BEGIN_QUOTE
+Finding Data: Data on Conflicts, Wars, Terrorism
+#+END_QUOTE
+
+** [[http://www.sipri.org/yearbook/2002/01/copy_of_01A][Measuring violence: an introduction to conflict data sets — www.sipri.org]]
+
+#+BEGIN_QUOTE
+ Appendix 1C. Measuring violence: an introduction to conflict data sets
+ TAYLOR B. SEYBOLT 
+Since the 1980s, with the advent of the widespread use of computers, a multitude of conflict data-collection projects have emerged. As a result, there is disagreement on some of the most basic questions. Is the world more or less violent today than in the past? Are wars more or less destructive than they used to be? Are modern violent conflicts different from earlier ones? What are the causes of conflict initiation, continuation and termination?  
+
+In an ironic twist on the presumption of objectivity that underlies the quantitative research projects, the diversity of systematic data collection appears to support the constructivist argument that reality lies in the eye of the beholder. The core issue is the balance between reliability and validity—between accuracy in recording information and appropriateness of the information for addressing theoretical concepts of interest. The balance confronts both quantitative and qualitative attempts to simplify the world in order to understand it and elicits different types of solutions from different types of researchers. Quantitative research places primary importance on reliability. To fulfil the requirement of systematically recording a series of events in a consistent manner, conflict data projects need to delimit complex phenomena through definitions and coding rules. In the process, they limit the range of their validity. The problem of limited validity is partially resolved by the wide variety of data-collection projects that now exist. The reviewed projects offer researchers a vast array of good data with which to develop academic theories and policy-related arguments. Full Internet addresses are given for all of the major conflict data sets.
+#+END_QUOTE
+
+** [[http://infoguides.gmu.edu/c.php?g%3D120541&p%3D785907][Data & Online Resources - Conflict Analysis & Resolution - InfoGuides at George Mason University]]
+
+#+BEGIN_QUOTE
+Conflict Analysis & Resolution: Data & Online Resources Resources for study and research in Conflict Analysis & Resolution
+#+END_QUOTE
 
 * Censorship and Surveillance Data
 
@@ -102,9 +261,88 @@ The Aid Worker Security Database (AWSD) records major incidents of violence agai
 ICNL's NGO Law Monitor provides up-to-date information on legal issues affecting not-for-profit, non-governmental organizations (NGOs) around the world. At this time, ICNL presents reports on 48 countries and 8 multilateral organizations. Each country report provides an overview of key issues relating to the freedom of association and NGO legal framework, with a focus on legal barriers affecting civil society. Each multilateral organization report provides an overview of the organization, with a focus on NGO legal issues.
 #+END_QUOTE
 
+* Misc Data Sets
+Data-sets that can provide context or have a broader foci than just threat/crisis data.
 
+** [[https://www.undata-api.org/][UN Data API API]]
 
-* Misc Open Data Sets
-Sets of data that can contribute to gathering up-to date and robust information without having to have the community input it all ourselves.
+#+BEGIN_QUOTE
+Description  
+An unofficial API version of the great data made available by the United Nations on the UNDATA site. The aim is to make this data accessible and reusable in a variety of ways so it can be easily mashed up and recombined into new applications or analysis. 
 
-http://lod-cloud.net/
+Specifications  
+The service uses a straightforward REST API hosted on Heroku’s MongoHQ and makes UNDATA sets easily queryable from any application. Currently we have 108 datasets from the World Health Organization online and we’ll add more over time. 
+
+Happy people  
+The service is 100% free to use and publicly accessible – you just need to sign up for an account to generate access keys. Standard accounts have some limits on usage but if you need more just contact us and we’ll arrange a higher limit.
+#+END_QUOTE
+** [[http://www.programmableweb.com/api/world-bank][World Bank API | ProgrammableWeb]]
+
+#+BEGIN_QUOTE
+ Use the World Bank API to access the most popular World Bank databases, including the Little Data Book, the Worldwide Governance Indicators, Doing Business data, and the World Bank Photo Library. The World Bank API offers 114 indicators from key data sources, 12,000 development photos and data on the World Bank's operations and projects. You might map this information, create a visualization, or mash it up to communicate trends or patterns. 
+#+END_QUOTE
+
+*** [[http://data.worldbank.org/developers][World Bank Website - For Developers | Data]]
+
+#+BEGIN_QUOTE
+About the API  The World Bank currently has three different APIs to provide access to different datasets: one for Indicators (or time series data), one for Projects (or data on the World Bank’s operations), and one for the World Bank financial data (World Bank Finances API). All three APIs implement RESTful interfaces to allow users to perform queries of available data using selection parameters. For the Indicators API, XML and JSON representations are available; for the Projects API, Atom representation is also available; for the World Bank Finances API, XML, JSON and RDF representations are available.
+#+END_QUOTE
+
+** [[http://lod-cloud.net/][The Linking Open Data cloud]]
+
+#+BEGIN_QUOTE
+This web page is the home of the LOD cloud diagram. This image shows datasets that have been published in Linked Data format, by contributors to the Linking Open Data community project and other individuals and organisations. It is based on metadata collected and curated by contributors to the Data Hub as well as on metadata extracted from a crawl of the Linked Data web conducted in April 2014. Clicking the image will take you to an image map, where each dataset is a hyperlink to its homepage.
+#+END_QUOTE
+
+** [[http://hdr.undp.org/en/data/api][UN - Human Development Reports]]
+
+#+BEGIN_QUOTE
+ Human Development Data API The for the Human Development Report resides in the statistical tables. All data is accessible via API, and can be queried to return just the data you need. Add HDR data to your app or project today! Getting Started  Our HDR data resides on data.undp.org, and is accessed via the Socrata Open Data API (SODA). All communication with the API is done through HTTPS, and errors are communicated through HTTP response codes. Available response types include JSON, XML, and CSV, which are selectable by the "extension" on API requests or by HTTP Accepts headers.
+#+END_QUOTE
+
+*** [[http://www.programmableweb.com/api/undp-human-development-data][UNDP Human Development Data API | ProgrammableWeb]]
+
+#+BEGIN_QUOTE
+ The United Nations Development Programme's (UNDP's) Human Development Reports focus on metrics such as information access, good nutrition and health services, job security, safety from crime and violence, quality leisure time, and political freedom. All of the data for the Human Development Report is contained in 14 statistical tables, which are accessible programmatically via REST calls. 
+#+END_QUOTE
+
+** [[http://datahub.io/dataset/united-nations-register-of-conventional-arms][United Nations Register of Conventional Arms - the Datahub]]
+
+#+BEGIN_QUOTE
+United Nations Register of Conventional Arms  If States behave in a predictable and transparent way, including being open about arms transfers, this could build confidence among them and help prevent conflict. For this purpose, governments can report to the UN Register of Conventional Arms. The Register is an important tool, giving practical significance to the concept of 'transparency in armaments'
+#+END_QUOTE
+
+** [[http://www.cidcm.umd.edu/mar/amar_project.asp][MAR | AMAR Project]]
+
+Useful for providing key sub-groupings to make searching easier.
+
+#+BEGIN_QUOTE
+The AMAR Dataset  
+
+As introduced in Birnir et al. (2014), the AMAR dataset is the first attempt at constructing a list of ethnic groups that is not defined by any political criteria, such as being 'at risk', as in the original MAR dataset. The inclusion criteria are consistent with the original MAR data, but significantly broader.  
+
+Specifically, the inclusion criterion for AMAR is based on groups that are socially relevant without any necessary political activation. By 'socially relevant', as described in Fearon 2006 (Fearon, James D. 2006. "Ethnic mobilization and ethnic violence." In Oxford Handbook of Political Economy, edited by Barry R Weingast & Donald Wittman, 852-868. Oxford: Oxford University Press, 853), we mean 'when people notice and condition their actions on ethnic distinctions in everyday life.' This contrasts to the politicization of ethnicity, that is, 'when political coalitions are organized along ethnic lines, or when access to political or economic benefits depends on ethnicity' (Fearon, 2006: 853).  
+
+Importantly, social relevance of an identity does not refer to political mobilization and does not have inherent political connotations; instead, it only refers to the salience of the identity in guiding an individual's actions in her life.  
+
+Based on this concept of "social relevance", the new criteria for inclusion in AMAR are defined as follows:      
+  - Membership in the group is determined primarily by descent by both members and non-members. The group may be a caste if membership is determined by descent and precludes public social mobility.     
+  - Membership in the group is recognized and viewed as important by members and/or non-members. The importance may be psychological, normative, and/or strategic.     
+  - Members share some distinguishing cultural features, such as common language, religion, occupational niche, and customs.     
+  - One or more of these cultural features are either practiced by a majority of the group or preserved and studied by a set of members who are broadly respected by the wider membership for so doing.   
+  - The group has at least 100,000 members or constitutes one percent of a country's population.  
+
+Applying these selection criteria to the world's ethnic groups resulted in the enumeration of 1,194 ethnic groups, over 900 of which were not included in the original MAR dataset. These groups are organized by region and can be downloaded in the Microsoft Excel file below.
+#+END_QUOTE
+
+** [[http://www.humanitarianresponse.info/applications/data][Data : COD FOD Registry | HumanitarianResponse]]
+
+#+BEGIN_QUOTE
+ The Fundamental Operational Datasets (FODs) are datasets that are relevent to a humanitarian operation, but are more specific to a particular sector or otherwise do not fit into one of the seven COD themes.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+ The Common Operational Datasets (CODs) are critical datasets that are used to support the work of humanitarian actors across multiple sectors. They are considered a de facto standard for the humanitarian community and should represent the best-available datasets for each theme.
+#+END_QUOTE
+
+* Cyber Threat Information
