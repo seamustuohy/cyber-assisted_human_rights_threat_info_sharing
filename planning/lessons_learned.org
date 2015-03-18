@@ -1,0 +1,24 @@
+Lessons Learned
+
+* Experience from an organization doing some of this work already
+We collect minimum amount of data;  and what we see most is account hacking. 
+content on social media takes most time. 
+Further website hacking, due to cheap hosting. 
+75% is still the basics.  
+What we do is mapping those resources available, I’m vetting the trust of the partner that comes through to me, and refer them. 
+
+How much information we need to collect depends on whether it is new contact, (then require more) trusted partner less info, we depersonalise cases. 
+We have extensive emergency assistance programs – also non-cyber threat issues.  
+Who were they facing what kind of attack, what is the tools they use. 
+We are looking into analysing that data and link it to a feedback loop with developers as well. 
+ 
+* Experiences from regional threat info sharing
+sharing is  done informally. 
+No newsletter/information going around. 
+Looks like this and smells like this, so many days we were down etc.. 
+There, besides a lack of information spread about attacks, is a huge lack of ability to diagnose mallware. 
+Not nearly enough forensics in our community. 
+
+* Past failures of information sharing when it was needed
+This should be connected to real political threat modelling and risk assessment; by the time the network finds out about it things are already quite bloody. 
+The Crimean  deadline, which fell down, that even in that intelligence network, it would be implemented 6 weeks after it was announced. Notices from Google in English, complete lack of communication of what to do now. So – you would hope that somebody happens to notice and brings it to the network. 

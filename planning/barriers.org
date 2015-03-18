@@ -1,0 +1,28 @@
+Barriers/Challenges:
+
+* Interoperability
+** Agreement on the standards of information sharing; 
+*** what we share 
+as complete as possible while staying anonymous, faster and relatively
+**** responsible data sharing
+How to depersonalise the information without making it useless for a good analysis; 
+**** How to take information from different systems and merge that.
+***  how we release it.
+**** Different releases for different target groups; 
+**** information relevant for first responders, 
+****  information relevant for trainers and digisec security; 
+**** release for wider groups of end users at risks and  ‘non-digisec’ organisations working with users at risk; 
+better curated and more accessible (in design and distribution)
+* Risk of disclosure
+** Collecting that data makes you an interesting target
+* Legal and organizational restrictions
+* Preserving privacy
+** Can collecting this information lead to us doing attackers work for them
+** How to we reduce PII while making the threat information valuable to the community?
+* producing information
+* Consuming information
+* classification of information
+* How we can funnel the information connection between physical and cyber threats 
+* Threat actor Deception
+** Resources
+See: The Devil does not exist - the role of deception in cyber. Mark mateski, and Matt Devost
