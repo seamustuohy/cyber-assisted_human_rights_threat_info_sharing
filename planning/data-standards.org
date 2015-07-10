@@ -151,6 +151,7 @@ The Events Standard Formats are a methodology for using the “violations” app
 #+END_QUOTE
 ** [[http://www.icc-cpi.int/NR/rdonlyres/336923D8-A6AD-40EC-AD7B-45BF9DE73D56/0/ElementsOfCrimesEng.pdf][International Criminal Court - Elements of Crimes]]
 
+** [[https://ccdcoe.org/cycon/2013/proceedings/d3r1s2_applegate.pdf][Towards a Cyber Conflict Taxonomy]]
 
 * Conflict Assessment Information Standards
 
