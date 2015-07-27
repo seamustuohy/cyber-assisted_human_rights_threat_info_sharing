@@ -2,6 +2,10 @@
 
 This repository is a place for collective notes and brainstorming about how the human rights community should move forward to combine classic human rights documentation and cyber-threat monitoring. This repository will contain planning documents, analysis, notes, and resources that will hopefully assist in the creation of any future systems.
 
+**Please use the [Issue Que](https://github.com/elationfoundation/cyber-assisted_human_rights_threat_info_sharing/issues) for ANY suggestions and thoughts.** 
+
+**Please feel free to add things yourself and push the code back here.**
+
 ## Purpose
 
 The use of malicious software and networking technologies to carry out and support human rights violations is increasing. This type of technology is increasingly  becoming easier for malicious actors to attain and leverage against their victims.
