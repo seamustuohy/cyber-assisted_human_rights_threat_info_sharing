@@ -1,0 +1,27 @@
+
+
+* proactive detection
+analysis of adversaries, capabilities, objectives, doctrine and limitations.
+** identifying trigger events
+trigger events like elections are often known before-hand. preemptive alerts, training, and support can prepare a group for upcoming cyber attacks before they are targeted. active monitoring of high-risk groups can also help identify the tactics, and ioc's needed to support other groups targeted by those threat actors.
+
+* mitigation
+** anti-virus/malware ioc sharing
+** targeted training
+training on secure social media usage, security tool usage, data storage, etc. that is targeted to the emergent threats groups face will provide a greater impact with less expert intervention.
+** risk/security assessment support
+with more accurate threat information more accurate risk assessments can be provided to at-risk groups to identify the highest level of protection they can take on while continuing to do their work.
+
+* containment
+** information sharing & education
+phishing campaigns, and other temporal attacks can be interrupted through proper threat information sharing being rapidly pushed to other at-risk or possibly targeted groups.
+** ioc creation
+
+* incident response
+** device forensics
+** secure/protected website hosting
+** ddos protection
+** documentation
+documenting and publishing cyber attacks helps to create pressure against these practices leading to longer-term possibilities of these practices becoming harder for attackers.
+** psycho-social care
+** legal support
