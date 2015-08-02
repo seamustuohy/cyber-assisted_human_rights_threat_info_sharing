@@ -8,11 +8,8 @@ The following are notes and resources that currently exist that may have useful 
 A detailed index of sources and data types to support source awareness and intelligence collection.  What constitutes an open source of intelligence? How many of these sources do you consult in the course of your work? And what format do they take? i-intelligence has put together a Taxonomy of OSINT Sources to support source awareness, intelligence collection and general information literacy.
 #+END_QUOTE
 
-
 * Broad Threat/Risk Information
-
 - https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_region.md
-
 - https://github.com/OpenInternet/SAFETAG/blob/master/content/references/threat_by_focus_area.md
   - [[https://github.com/OpenInternet/SAFETAG/blob/master/content/references/footnotes.md][You will need the footnotes]]
 ** [[http://portal.gdacs.org/data/GDACS-Platform][GDACS Data Plaftorm]]
@@ -37,14 +34,14 @@ One of the principal activities of the Correlates of War Project is the extensio
 ** [[http://reliefweb.int/help/api][ReliefWeb API | ReliefWeb]]
 
 #+BEGIN_QUOTE
-ReliefWeb is a leading source of information on global crises and disasters. Our continuous coverage and archive going back to the 1970s makes ReliefWeb an unparalleled resource for both current and historical data on humanitarian response. 
+ReliefWeb is a leading source of information on global crises and disasters. Our continuous coverage and archive going back to the 1970s makes ReliefWeb an unparalleled resource for both current and historical data on humanitarian response.
 #+END_QUOTE
 
 *** [[http://www.programmableweb.com/api/reliefweb][ReliefWeb API | ProgrammableWeb]]
 
 
 #+BEGIN_QUOTE
- ReliefWeb, a specialized digital service of the United Nations Office of Humanitarian Affairs (OCHA), is a source for timely information on global crises and disasters, enabling humanitarians to make informed decisions and plan effective assistance. The ReliefWeb API provides developer-friendly access to content on the ReliefWeb site. ReliefWeb launched in 1996 and has been posting Reports continuously since. Also available are UN reports on major disasters from the 1980s. Data in updated is real-time. 
+ ReliefWeb, a specialized digital service of the United Nations Office of Humanitarian Affairs (OCHA), is a source for timely information on global crises and disasters, enabling humanitarians to make informed decisions and plan effective assistance. The ReliefWeb API provides developer-friendly access to content on the ReliefWeb site. ReliefWeb launched in 1996 and has been posting Reports continuously since. Also available are UN reports on major disasters from the 1980s. Data in updated is real-time.
 #+END_QUOTE
 
 ** [[http://crisis.net/][CrisisNET]]
@@ -55,24 +52,24 @@ Crisis data, at your fingertips  CrisisNET finds, formats and exposes crisis dat
 
 #+BEGIN_QUOTE
 Sources:
-- Ushahidi 
-- Facebook 
-- Twitter 
-- Instagram 
-- Violations 
-- Documentation 
-- Center in Syria 
-- ReliefWeb 
+- Ushahidi
+- Facebook
+- Twitter
+- Instagram
+- Violations
+- Documentation
+- Center in Syria
+- ReliefWeb
 #+END_QUOTE
 
 ** [[http://www.google.org/crisisresponse/resources.html][Google Crisis Response]]
 
 #+BEGIN_QUOTE
- First responders can use technology to streamline internal operations and get information to the public as quickly, broadly, and effectively as possible. We’ve published some solutions to help responders achieve these goals. 
+ First responders can use technology to streamline internal operations and get information to the public as quickly, broadly, and effectively as possible. We’ve published some solutions to help responders achieve these goals.
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-Use online technology to quickly reach people in need and to efficiently run your internal operations during a crisis. We recommend you implement these best practices and try out some of the Google tools highlighted below. 
+Use online technology to quickly reach people in need and to efficiently run your internal operations during a crisis. We recommend you implement these best practices and try out some of the Google tools highlighted below.
 #+END_QUOTE
 
 ** [[http://www.cidcm.umd.edu/mar/mar_data.asp][Minorities At Risk | MAR Data]]
@@ -87,7 +84,7 @@ The minority group assessments consist of two parts: a risk assessment and an an
 
 ** [[http://berkleycenter.georgetown.edu/publications/start-global-terrorism-database][START Global Terrorism Database]]
 #+BEGIN_QUOTE
-The Global Terrorism Database (GTD) is currently the most comprehensive unclassified terrorism database in the world, with information on more than 27,000 bombings, 13,000 assassinations, and 2,800 kidnappings. It consists of two distinct databases: GTD1, which covers 1970-1997, and GTD2, which covers 1998-2004. Unlike many other event databases, the GTD includes systematic data on international as well as domestic terrorist incidents that have occurred during this time period. For each GTD incident, information is available on the date and location of the incident, the weapons used and nature of the target, the number of casualties, and -- when identifiable -- the identity of the perpetrator. This data has been used by a number of studies that explore the relationship between religion and terrorism, most often those focusing on Islamist organizations. 
+The Global Terrorism Database (GTD) is currently the most comprehensive unclassified terrorism database in the world, with information on more than 27,000 bombings, 13,000 assassinations, and 2,800 kidnappings. It consists of two distinct databases: GTD1, which covers 1970-1997, and GTD2, which covers 1998-2004. Unlike many other event databases, the GTD includes systematic data on international as well as domestic terrorist incidents that have occurred during this time period. For each GTD incident, information is available on the date and location of the incident, the weapons used and nature of the target, the number of casualties, and -- when identifiable -- the identity of the perpetrator. This data has been used by a number of studies that explore the relationship between religion and terrorism, most often those focusing on Islamist organizations.
 #+END_QUOTE
 
 ** [[http://berkleycenter.georgetown.edu/publications/rand-worldwide-terrorism-incident-database][RAND Worldwide Terrorism Incident Database]]
@@ -153,8 +150,8 @@ Finding Data: Data on Conflicts, Wars, Terrorism
 
 #+BEGIN_QUOTE
  Appendix 1C. Measuring violence: an introduction to conflict data sets
- TAYLOR B. SEYBOLT 
-Since the 1980s, with the advent of the widespread use of computers, a multitude of conflict data-collection projects have emerged. As a result, there is disagreement on some of the most basic questions. Is the world more or less violent today than in the past? Are wars more or less destructive than they used to be? Are modern violent conflicts different from earlier ones? What are the causes of conflict initiation, continuation and termination?  
+ TAYLOR B. SEYBOLT
+Since the 1980s, with the advent of the widespread use of computers, a multitude of conflict data-collection projects have emerged. As a result, there is disagreement on some of the most basic questions. Is the world more or less violent today than in the past? Are wars more or less destructive than they used to be? Are modern violent conflicts different from earlier ones? What are the causes of conflict initiation, continuation and termination?
 
 In an ironic twist on the presumption of objectivity that underlies the quantitative research projects, the diversity of systematic data collection appears to support the constructivist argument that reality lies in the eye of the beholder. The core issue is the balance between reliability and validity—between accuracy in recording information and appropriateness of the information for addressing theoretical concepts of interest. The balance confronts both quantitative and qualitative attempts to simplify the world in order to understand it and elicits different types of solutions from different types of researchers. Quantitative research places primary importance on reliability. To fulfil the requirement of systematically recording a series of events in a consistent manner, conflict data projects need to delimit complex phenomena through definitions and coding rules. In the process, they limit the range of their validity. The problem of limited validity is partially resolved by the wide variety of data-collection projects that now exist. The reviewed projects offer researchers a vast array of good data with which to develop academic theories and policy-related arguments. Full Internet addresses are given for all of the major conflict data sets.
 #+END_QUOTE
@@ -228,7 +225,7 @@ http://www.opensocietyfoundations.org/projects/mapping-digital-media
 ** [[http://www.cryptolaw.org/][Crypto Law Survey]]
 
 #+BEGIN_QUOTE
-This is a survey of existing and proposed laws and regulations on cryptography - systems used for protecting information against unauthorized access. Governments have long restricted export of cryptography for fear that their intelligence activities are hampered by the crypto use of foreign states and scoundrels. Since the rise of crypto use over the past decades, governments increasingly worry about criminals using cryptography to thwart law enforcement. Thus, many countries have passed laws or are considering laws to maintain law-enforcement and national-security capabilities through regulation of cryptography. 
+This is a survey of existing and proposed laws and regulations on cryptography - systems used for protecting information against unauthorized access. Governments have long restricted export of cryptography for fear that their intelligence activities are hampered by the crypto use of foreign states and scoundrels. Since the rise of crypto use over the past decades, governments increasingly worry about criminals using cryptography to thwart law enforcement. Thus, many countries have passed laws or are considering laws to maintain law-enforcement and national-security capabilities through regulation of cryptography.
 #+END_QUOTE
 
 ** [[https://redlatam.org/es][LatAm]]
@@ -251,7 +248,7 @@ As part of ITU’s overall support to its 193 Member States within the framework
 ** [[https://aidworkersecurity.org/][The Aid Worker Security Database]]
 
 #+BEGIN_QUOTE
-The Aid Worker Security Database (AWSD) records major incidents of violence against aid workers, with incident reports from 1997 through the present. Initiated in 2005, to date the AWSD remains the sole comprehensive global source of this data, providing the evidence base for analysis of the changing security environment for civilian aid operations. 
+The Aid Worker Security Database (AWSD) records major incidents of violence against aid workers, with incident reports from 1997 through the present. Initiated in 2005, to date the AWSD remains the sole comprehensive global source of this data, providing the evidence base for analysis of the changing security environment for civilian aid operations.
 #+END_QUOTE
 
 
@@ -267,19 +264,19 @@ Data-sets that can provide context or have a broader foci than just threat/crisi
 ** [[https://www.undata-api.org/][UN Data API API]]
 
 #+BEGIN_QUOTE
-Description  
-An unofficial API version of the great data made available by the United Nations on the UNDATA site. The aim is to make this data accessible and reusable in a variety of ways so it can be easily mashed up and recombined into new applications or analysis. 
+Description
+An unofficial API version of the great data made available by the United Nations on the UNDATA site. The aim is to make this data accessible and reusable in a variety of ways so it can be easily mashed up and recombined into new applications or analysis.
 
-Specifications  
-The service uses a straightforward REST API hosted on Heroku’s MongoHQ and makes UNDATA sets easily queryable from any application. Currently we have 108 datasets from the World Health Organization online and we’ll add more over time. 
+Specifications
+The service uses a straightforward REST API hosted on Heroku’s MongoHQ and makes UNDATA sets easily queryable from any application. Currently we have 108 datasets from the World Health Organization online and we’ll add more over time.
 
-Happy people  
+Happy people
 The service is 100% free to use and publicly accessible – you just need to sign up for an account to generate access keys. Standard accounts have some limits on usage but if you need more just contact us and we’ll arrange a higher limit.
 #+END_QUOTE
 ** [[http://www.programmableweb.com/api/world-bank][World Bank API | ProgrammableWeb]]
 
 #+BEGIN_QUOTE
- Use the World Bank API to access the most popular World Bank databases, including the Little Data Book, the Worldwide Governance Indicators, Doing Business data, and the World Bank Photo Library. The World Bank API offers 114 indicators from key data sources, 12,000 development photos and data on the World Bank's operations and projects. You might map this information, create a visualization, or mash it up to communicate trends or patterns. 
+ Use the World Bank API to access the most popular World Bank databases, including the Little Data Book, the Worldwide Governance Indicators, Doing Business data, and the World Bank Photo Library. The World Bank API offers 114 indicators from key data sources, 12,000 development photos and data on the World Bank's operations and projects. You might map this information, create a visualization, or mash it up to communicate trends or patterns.
 #+END_QUOTE
 
 *** [[http://data.worldbank.org/developers][World Bank Website - For Developers | Data]]
@@ -303,7 +300,7 @@ This web page is the home of the LOD cloud diagram. This image shows datasets th
 *** [[http://www.programmableweb.com/api/undp-human-development-data][UNDP Human Development Data API | ProgrammableWeb]]
 
 #+BEGIN_QUOTE
- The United Nations Development Programme's (UNDP's) Human Development Reports focus on metrics such as information access, good nutrition and health services, job security, safety from crime and violence, quality leisure time, and political freedom. All of the data for the Human Development Report is contained in 14 statistical tables, which are accessible programmatically via REST calls. 
+ The United Nations Development Programme's (UNDP's) Human Development Reports focus on metrics such as information access, good nutrition and health services, job security, safety from crime and violence, quality leisure time, and political freedom. All of the data for the Human Development Report is contained in 14 statistical tables, which are accessible programmatically via REST calls.
 #+END_QUOTE
 
 ** [[http://datahub.io/dataset/united-nations-register-of-conventional-arms][United Nations Register of Conventional Arms - the Datahub]]
@@ -317,20 +314,20 @@ United Nations Register of Conventional Arms  If States behave in a predictable 
 Useful for providing key sub-groupings to make searching easier.
 
 #+BEGIN_QUOTE
-The AMAR Dataset  
+The AMAR Dataset
 
-As introduced in Birnir et al. (2014), the AMAR dataset is the first attempt at constructing a list of ethnic groups that is not defined by any political criteria, such as being 'at risk', as in the original MAR dataset. The inclusion criteria are consistent with the original MAR data, but significantly broader.  
+As introduced in Birnir et al. (2014), the AMAR dataset is the first attempt at constructing a list of ethnic groups that is not defined by any political criteria, such as being 'at risk', as in the original MAR dataset. The inclusion criteria are consistent with the original MAR data, but significantly broader.
 
-Specifically, the inclusion criterion for AMAR is based on groups that are socially relevant without any necessary political activation. By 'socially relevant', as described in Fearon 2006 (Fearon, James D. 2006. "Ethnic mobilization and ethnic violence." In Oxford Handbook of Political Economy, edited by Barry R Weingast & Donald Wittman, 852-868. Oxford: Oxford University Press, 853), we mean 'when people notice and condition their actions on ethnic distinctions in everyday life.' This contrasts to the politicization of ethnicity, that is, 'when political coalitions are organized along ethnic lines, or when access to political or economic benefits depends on ethnicity' (Fearon, 2006: 853).  
+Specifically, the inclusion criterion for AMAR is based on groups that are socially relevant without any necessary political activation. By 'socially relevant', as described in Fearon 2006 (Fearon, James D. 2006. "Ethnic mobilization and ethnic violence." In Oxford Handbook of Political Economy, edited by Barry R Weingast & Donald Wittman, 852-868. Oxford: Oxford University Press, 853), we mean 'when people notice and condition their actions on ethnic distinctions in everyday life.' This contrasts to the politicization of ethnicity, that is, 'when political coalitions are organized along ethnic lines, or when access to political or economic benefits depends on ethnicity' (Fearon, 2006: 853).
 
-Importantly, social relevance of an identity does not refer to political mobilization and does not have inherent political connotations; instead, it only refers to the salience of the identity in guiding an individual's actions in her life.  
+Importantly, social relevance of an identity does not refer to political mobilization and does not have inherent political connotations; instead, it only refers to the salience of the identity in guiding an individual's actions in her life.
 
-Based on this concept of "social relevance", the new criteria for inclusion in AMAR are defined as follows:      
-  - Membership in the group is determined primarily by descent by both members and non-members. The group may be a caste if membership is determined by descent and precludes public social mobility.     
-  - Membership in the group is recognized and viewed as important by members and/or non-members. The importance may be psychological, normative, and/or strategic.     
-  - Members share some distinguishing cultural features, such as common language, religion, occupational niche, and customs.     
-  - One or more of these cultural features are either practiced by a majority of the group or preserved and studied by a set of members who are broadly respected by the wider membership for so doing.   
-  - The group has at least 100,000 members or constitutes one percent of a country's population.  
+Based on this concept of "social relevance", the new criteria for inclusion in AMAR are defined as follows:
+  - Membership in the group is determined primarily by descent by both members and non-members. The group may be a caste if membership is determined by descent and precludes public social mobility.
+  - Membership in the group is recognized and viewed as important by members and/or non-members. The importance may be psychological, normative, and/or strategic.
+  - Members share some distinguishing cultural features, such as common language, religion, occupational niche, and customs.
+  - One or more of these cultural features are either practiced by a majority of the group or preserved and studied by a set of members who are broadly respected by the wider membership for so doing.
+  - The group has at least 100,000 members or constitutes one percent of a country's population.
 
 Applying these selection criteria to the world's ethnic groups resulted in the enumeration of 1,194 ethnic groups, over 900 of which were not included in the original MAR dataset. These groups are organized by region and can be downloaded in the Microsoft Excel file below.
 #+END_QUOTE
@@ -346,3 +343,5 @@ Applying these selection criteria to the world's ethnic groups resulted in the e
 #+END_QUOTE
 
 * Cyber Threat Information
+** [[https://github.com/7h3rAm/APTnotes][APT Notes: Various public documents, whitepapers and articles about APT campaigns]]
+This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
