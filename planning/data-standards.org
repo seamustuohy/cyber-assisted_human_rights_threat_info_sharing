@@ -1,8 +1,15 @@
 
 * Digital Threat Information Standards
-Information sharing standards around digital threats, attacks, vulnerabilities, and assets have been covered extensively. While none of these will smoothly fit into existing human-rights violation tracking systems,, it would be a mistake to not leverage these standards in the extension of cyber-assisted human rights information sharing systems.  
+Information sharing standards around digital threats, attacks, vulnerabilities, and assets have been covered extensively. While none of these will smoothly fit into existing human-rights violation tracking systems,, it would be a mistake to not leverage these standards in the extension of cyber-assisted human rights information sharing systems.
 
+** Targeted Threats Information sharing
 ** Cyber-Threat Information Sharing Standards
+*** [[https://github.com/digitalfreedom/data-targetedthreats/blob/master/datapackage.json][Targeted Threats]]
+
+https://github.com/digitalfreedom/data-targetedthreats
+
+Data package definition for cyber attacks against civil society
+
 
 *** [[http://taxii.mitre.org/][TAXII - Trusted Automated Exchange of Indicator Information]]
 
@@ -29,11 +36,11 @@ CAPEC™ is a comprehensive dictionary and classification taxonomy of known atta
 Malware Attribute Enumeration and Characterization (MAEC™) is a structured language for encoding and communicating high fidelity information about malware based upon attributes such as behaviors, artifacts, and attack patterns.
 #+END_QUOTE
 
-*** [[https://targetedthreats.net/media/2-Extended%20Analysis-Full.pdf#page=22][TTI - Targeted Threat Index]] 
+*** [[https://targetedthreats.net/media/2-Extended%20Analysis-Full.pdf#page=22][TTI - Targeted Threat Index]]
 A framework for evaluating phising attack sophistication.
 
 #+BEGIN_QUOTE
-We developed the Targeted Threat Index (TTI), which is a metric that characterizes and quantifies the sophistication of targeted [phishing] attacks, to provide a consistent ranking of how advanced any given targeted malware attack is.  The TTI score is calculated by taking a base value determined by the sophistication of the targeting method, which is then multiplied by a value for the technical sophistication of the malware. The base score can be used independently to compare emails, and the combined score gives an indication of the level of effort an attacker has put into individual threats. 
+We developed the Targeted Threat Index (TTI), which is a metric that characterizes and quantifies the sophistication of targeted [phishing] attacks, to provide a consistent ranking of how advanced any given targeted malware attack is.  The TTI score is calculated by taking a base value determined by the sophistication of the targeting method, which is then multiplied by a value for the technical sophistication of the malware. The base score can be used independently to compare emails, and the combined score gives an indication of the level of effort an attacker has put into individual threats.
 #+END_QUOTE
 
 *** [[http://datatracker.ietf.org/doc/rfc5901/][Extensions to the IODEF-Document Class for Reporting Phishing]]
@@ -121,7 +128,7 @@ Open Vulnerability and Assessment Language (OVAL®) is an international, informa
 *** [[http://scap.nist.gov/index.html][Security Content Automation Protocol (SCAP)]]
 
 #+BEGIN_QUOTE
-The Security Content Automation Protocol (SCAP) is a suite of specifications that standardize the format and nomenclature by which software flaw and security configuration information is communicated, both to machines and humans. SCAP is a multi-purpose framework of specifications that support automated configuration, vulnerability and patch checking, technical control compliance activities, and security measurement. Goals for the development of SCAP include standardizing system security management, promoting interoperability of security products, and fostering the use of standard expressions of security content 
+The Security Content Automation Protocol (SCAP) is a suite of specifications that standardize the format and nomenclature by which software flaw and security configuration information is communicated, both to machines and humans. SCAP is a multi-purpose framework of specifications that support automated configuration, vulnerability and patch checking, technical control compliance activities, and security measurement. Goals for the development of SCAP include standardizing system security management, promoting interoperability of security products, and fostering the use of standard expressions of security content
 #+END_QUOTE
 
 **** [[http://csrc.nist.gov/publications/nistpubs/800-126-rev2/SP800-126r2.pdf][NIST SP 800-126 Revision 2, The Technical Specification for the Security Content Automation Protocol (SCAP)]]
@@ -160,5 +167,3 @@ The Events Standard Formats are a methodology for using the “violations” app
 ** [[http://csrc.nist.gov/publications/drafts/800-150/sp800_150_draft.pdf][NIST 800-15: Guide to Cyber Threat Information Sharing (Draft)]]
 
 * Responsible Information Sharing Standards
-
-

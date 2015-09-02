@@ -343,5 +343,16 @@ Applying these selection criteria to the world's ethnic groups resulted in the e
 #+END_QUOTE
 
 * Cyber Threat Information
+
+** [[https://digitalfreedom.io/][Digital Freedom Alliance]]
+
+- https://digitalfreedom.io/datasets/
+- https://github.com/digitalfreedom
+
+** [[https://github.com/digitalfreedom/data-targetedthreats][Targeted Threats]]
+#+BEGIN_QUOTE
+ Data package with attacks against civil society
+#+END_QUOTE
+
 ** [[https://github.com/7h3rAm/APTnotes][APT Notes: Various public documents, whitepapers and articles about APT campaigns]]
 This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
