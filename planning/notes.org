@@ -1,0 +1,28 @@
+* Intelligence cycle:
+Data: Scattered bits and pieces of facts, observations, and rumors.
+Information: a pooling of these bits of facts observations and rumors
+Analysis: Distilling information
+Intelligence: The insight that will allow you to make an informed decision.
+* LifeCycle of information sharing
+Creation or collection: Generating or aquiring information
+Processing: aggregating, transforming, correlating, and classifying information
+Dissemination: publishing and distributing information to authorized recipiants
+Use: Applying information to support organizational decision making
+Stroage: short and long term retention of information in file systems, content mangement systems, databases, and other repositories
+Disposition: implementing and enforcing policies for the retention and disposal of information
+
+* Intervention in the Cyber attack life cycle (Cyber Kill Chain)
+** Reconnaissance
+With footprinting detection and other recon-indicators being collected and shared across target groups campaign style recon MAY lead to an indication that there should be a greater level of resources put in to intel gathering and preparation for attack. 
+** Weaponize
+A cyber threat information sharing process that supports rapid response forces threat actors to spend more time developing malware and attacks because they are responded to within the community.
+** Deliver
+Network scale detection will collect information about possible attacks at this stage.
+** Exploit
+Sharing anti-virus reports from on-the-ground actors and utilizing custom malware detection rule-sets for our community will allow us to identify malware once it has compromised a device. This will allow for rapid community level awareness raising, education, and support for those infected.
+** Install
+Rapid responders who can analize new malware to create rule-sets and expose attacker action can happen at this stage. It will require a triage community to be built around a responder and threat information sharing community. 
+** Command and Control
+Identifying and tracking  command & control locations across targeted groups devices that are already infected will allow for more refined  threat actor identification and attribution.
+** Act on Objectives
+Identifying data exfultration, physical attacks, legal threats, or other activities in those who have already been infected will allow for easier identification of the intent of the threat actors that are responsible. This can inform at-risk actors, tool development, interventions, training, etc.

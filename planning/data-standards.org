@@ -166,4 +166,5 @@ The Events Standard Formats are a methodology for using the “violations” app
 
 ** [[http://csrc.nist.gov/publications/drafts/800-150/sp800_150_draft.pdf][NIST 800-15: Guide to Cyber Threat Information Sharing (Draft)]]
 
+** [[https://www.microsoft.com/en-us/download/details.aspx?id=45516&WT.mc_id=rss_alldownloads_all][A framework for cybersecurity information sharing and risk reduction]]
 * Responsible Information Sharing Standards

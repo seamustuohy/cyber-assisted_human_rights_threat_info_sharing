@@ -1,0 +1,13 @@
+Next steps:
+ 
+*  Identify all the organisations that could provide input; 
+who are first responders and have information about digital attacks taking place. 
+Who do we need to include in this effort for the ‘harvest’ of their information;
+* Reach agreement on the standards of information sharing;
+* Take best practises and learn from existing information sharing communities, 
+such as Humanitarian Crisis organisations (e.g. Harvard humanitarian information project, also for ways of aggregating information out of different kinds of systems).  
+Which organisations are there with this experience? 
+Who do we need to talk to? 
+* Strategy for curation, and the release on the two different levels. 
+* agreement on what information we need to share on cases.
+* how to share responsibly

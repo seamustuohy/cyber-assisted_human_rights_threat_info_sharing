@@ -1,0 +1,38 @@
+
+* With more information sharing about attacks and threats, we can have:
+ 
+- a better informed responders community; 
+- better threat/risk assessment for different implementers and end users at risk;
+- Customised training focussed on more relevant and occurring threats;
+- Better informed interventions;
+- Improved gaps and needs assessments/and… M&E; in area x, the most occurring threat is Z, while we are investing in Y.
+- Relevant for tool/software developers. 
+
+* A better informed responders community; 
+** Interrupting the cyber threat chain across groups with targeted threats
+Identifying cyber attack campaigns  towards groups that are targeted by threats can be done through the  quicker identification and intervention allowed by cyber threat info sharing.
+** Resources
+ Advanced Threat Analystics for incident Response, Darren Spruell, SANS GCIH Gold Certification paper
+
+
+
+*** Key Threat information
+- phishing e-mail content (proper PII reduction needed without losing key topics)
+- Yara rules for attachments
+* Better threat/risk assessment;
+**  implementers
+** end users at risk
+* Customised training focused on more relevant and occurring threats;
+* Better informed interventions;
+** M&E: Improved gaps and needs assessments
+in area x, the most occurring threat is Z, while we are investing in Y.
+* Relevant for tool/software developers
+Our tool addresses X threat. The areas who have X threat are in area y. We need to translate to y language.
+Our tool is currently being  blocked in X areas.
+* Identifying cyber threat actor tactics
+Identifying the methodologies used in cyber attack campaigns by persist ant cyber threat actors can be done through strategic sharing of attacks across communities that are possibly shared targets.
+*** Key Threat information
+- phishing e-mail sophistication (See targeted threats report)
+- possible threat actor identification
+- malware sophistication and type
+- related non-cyber threat & activities (to tie cyber attacks to real world intimidation or attack provides a link to identifying how attackers are leveraging their cyber attacks to carry out real-world attacks.)
