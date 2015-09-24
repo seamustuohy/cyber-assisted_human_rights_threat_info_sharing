@@ -350,7 +350,6 @@ Applying these selection criteria to the world's ethnic groups resulted in the e
 #+END_QUOTE
 
 * Cyber Threat Information
-
 ** [[https://digitalfreedom.io/][Digital Freedom Alliance]]
 
 - https://digitalfreedom.io/datasets/
@@ -363,3 +362,18 @@ Applying these selection criteria to the world's ethnic groups resulted in the e
 
 ** [[https://github.com/7h3rAm/APTnotes][APT Notes: Various public documents, whitepapers and articles about APT campaigns]]
 This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
+
+** [[http://smex.silk.co/][Arab Digital Rights Datasets]]
+
+#+BEGIN_QUOTE
+The open Arab Digital Rights Datasets aim to illuminate trends in how Arab governments are limiting digital rights, such as free expression and privacy online.
+
+The [currently available] legislation dataset ... comprises laws and other legal instruments that have been applied or could potentially be applied to restrict digital rights. It is the first in three datasets envisioned. The others are:
+
+    A dataset of cases in which individuals have been detained, prosecuted, and sentenced or otherwise punished for exercising their digital rights
+    A dataset of campaigns or actions that have been taken, either proactively or reactively, to preserve and protect digital rights online
+
+With these open datasets, we seek to empower activists, journalists, civil society, human rights defenders, lawyers, judges, and others to hold all governments accountable to protect and preserve human and civil rights in a digital age.
+
+This is a work in progress. We want to know about errors and omissions. An Arabic version is next. We'd love your help.
+#+END_QUOTE
