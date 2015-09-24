@@ -24,6 +24,13 @@ GDACS is a collaboration platform with the aim of sharing information in an effe
 The Aid Worker Security Database (AWSD) records major incidents of violence against aid workers, with incident reports from 1997 through the present. Initiated in 2005, to date the AWSD remains the sole comprehensive global source of this data, providing the evidence base for analysis of the changing security environment for civilian aid operations.
 #+END_QUOTE
 
+** [[https://mlat.info][Mutual Legal Assistance Treaties Info]]
+ This is an interesting data point for have when one is threat modeling cross boundary information gathering of the targeted actor when the adversary is a national adversary.
+
+ #+BEGIN_QUOTE
+ Mutual Legal Assistance Treaties (MLATs) are agreements between two or more countries, which create obligations under international law for governments to assist one another in criminal investigations and prosecutions. Law enforcement officers or prosecutors use them when they need help to obtain evidence from within another country’s jurisdiction.
+ #+END_QUOTE
+
 * Conflict and Crisis Data
 ** [[http://www.correlatesofwar.org/][Correlates of War Project (COW)]]
 
